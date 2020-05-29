@@ -179,14 +179,14 @@ a{color:#ffffff}
   background-image: -ms-linear-gradient(top, #ffffff, abbaabf);
   background-image: -o-linear-gradient(top, #ffffff, #abbaab);
   background-image: linear-gradient(to bottom, ##ffffff, abbaab);
-  -webkit-border-radius: 8;
-  -moz-border-radius: 8;
-  border-radius: 8px;
-  font-family: 'Montserrat', sans-serif;
-  color: #2c3e50;
-  font-size: 20px;
-  padding: 10px 20px 10px 20px;
-  text-decoration: none;
+  -webkit-border-radius : 8;
+  -moz-border-radius : 8;
+  border-radius : 8px;
+  font-family : 'Montserrat', sans-serif;
+  color : #2c3e50;
+  font-size : 20px;
+  padding : 10px 20px 10px 20px;
+  text-decoration : none;
 }
 .social-icon {
   margin: 20px 10px;
